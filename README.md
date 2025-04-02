@@ -6,7 +6,7 @@
 
 <br>
 
-<p>👋 I'm a current Advanced Degree student in DAW. I'm passionate about being a Full Stack Developer. Through my studies and personal projects, I'm gaining experience creating complete web applications, from the front end to the back end. I love solving problems, learning new technologies, and building scalable and efficient solutions. </p>
+<p> 👋 I'm a current Advanced Degree student in DAW. I'm passionate about being a Full Stack Developer. Through my studies and personal projects, I'm gaining experience creating complete web applications, from the front end to the back end. I love solving problems, learning new technologies, and building scalable and efficient solutions. </p>
 
 💻 **Technologies and tools I use**:
 - **Frontend**: HTML, CSS, JavaScript, React, Angular.
