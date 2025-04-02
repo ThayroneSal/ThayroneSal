@@ -38,7 +38,7 @@
 
 <p align="center">
 <a href="[https://github.com/ThayroneSal">
-  <img height="180em" width= "150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThayroneSal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width= "600em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThayroneSal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThayroneSal&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
