@@ -17,7 +17,7 @@
 - **Other tools**: Eclipse IDE, VS Code, IntelliJ IDEA.
 
 📚 **Currently learning**:
-- **DAW Higher Grade - Upgrade-Hub.**
+- **DAW Higher Grade - Upgrade-Hub. Year (Start, End 2024 / 2026)**
 - I love keeping up with the latest trends in web development.
 
 🌟 **My philosophy**:
