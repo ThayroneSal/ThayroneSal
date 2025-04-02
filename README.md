@@ -1,15 +1,12 @@
 <h1 align="center">Hi , I'm Thayrone Saldanha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
-
-	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
-👋 Soy un estudiante actual de Grado Superior en DAW, me apasiona Desarrollador Full Stack estoy adquiriendo atraves de mis estudios y proyectos personales la experiencia en la creación de aplicaciones web completas, desde el frontend hasta el backend. Me encanta resolver problemas, aprender nuevas tecnologías y construir soluciones escalables y eficientes.
+<p>👋 Soy un estudiante actual de Grado Superior en DAW, me apasiona Desarrollador Full Stack estoy adquiriendo atraves de mis estudios y proyectos personales la experiencia en la creación de aplicaciones web completas, desde el frontend hasta el backend. Me encanta resolver problemas, aprender nuevas tecnologías y construir soluciones escalables y eficientes. </p>
 
 💻 **Tecnologías y herramientas que uso**:
 - **Frontend**: HTML, CSS, JavaScript, React, Angular.
