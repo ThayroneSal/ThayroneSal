@@ -9,12 +9,31 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+👋 Soy un estudiante actual de Grado Superior en DAW, me apasiona Desarrollador Full Stack estoy adquiriendo atraves de mis estudios y proyectos personales la experiencia en la creación de aplicaciones web completas, desde el frontend hasta el backend. Me encanta resolver problemas, aprender nuevas tecnologías y construir soluciones escalables y eficientes.
+
+💻 Tecnologías y herramientas que utilizan :
+
+Interfaz : HTML, CSS, JavaScript, React, Angular.
+Backend : JAVA.
+Bases de datos : MySQL, MongoDB.
+DevOps : Docker, Acciones de GitHub.
+Control de versiones : Git, GitHub.
+Otras herramientas : Eclipse IDE, VS Code, IntelliJ IDEA.
+📚 Aprendiendo actualmente :
+
+Grado Superior DAW - Upgrade-Hub.
+Me encanta mantenerme al día con las últimas tendencias en desarrollo web.
+🌟 Mi filosofía :
+
+Creo en el código limpio, la documentación clara y el trabajo en equipo.
+Me esfuerzo por escribir software que no solo funciona, sino que también sea mantenible y escalable.
+Siempre estoy abierto a colaborar en proyectos interesantes y desafiantes.
+📫 Cómo contactarme :
+
+Correo electrónico : thayrone.saldanha@gmail.com
+LinkedIn : linkedin.com/in/thayrone-saldanha
+🌈 Fuera del código :
+
+Me gusta jugar videojuegos, leer libros de ciencia ficción, soy un fanático de la tecnología, me encanta el deporte de adrenalina.
+Siempre estoy buscando nuevas formas de combinar mi pasión por la tecnología con la sostenibilidad.
 <br>
