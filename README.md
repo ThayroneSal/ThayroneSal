@@ -4,7 +4,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 
 <p>👋 Soy un estudiante actual de Grado Superior en DAW, me apasiona Desarrollador Full Stack estoy adquiriendo atraves de mis estudios y proyectos personales la experiencia en la creación de aplicaciones web completas, desde el frontend hasta el backend. Me encanta resolver problemas, aprender nuevas tecnologías y construir soluciones escalables y eficientes. </p>
 
