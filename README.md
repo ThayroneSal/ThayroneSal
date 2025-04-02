@@ -6,32 +6,32 @@
 
 <br>
 
-<p>👋 Soy un estudiante actual de Grado Superior en DAW, me apasiona Desarrollador Full Stack estoy adquiriendo atraves de mis estudios y proyectos personales la experiencia en la creación de aplicaciones web completas, desde el frontend hasta el backend. Me encanta resolver problemas, aprender nuevas tecnologías y construir soluciones escalables y eficientes. </p>
+<p>👋 I'm a current Advanced Degree student in DAW. I'm passionate about being a Full Stack Developer. Through my studies and personal projects, I'm gaining experience creating complete web applications, from the front end to the back end. I love solving problems, learning new technologies, and building scalable and efficient solutions. </p>
 
-💻 **Tecnologías y herramientas que uso**:
+💻 **Technologies and tools I use**:
 - **Frontend**: HTML, CSS, JavaScript, React, Angular.
 - **Backend**: JAVA.
-- **Bases de datos**: MySQL, MongoDB.
+- **Databases**: MySQL, MongoDB.
 - **DevOps**: Docker, GitHub Actions.
-- **Control de versiones**: Git, GitHub.
-- **Otras herramientas**: Eclipse IDE, VS Code, IntelliJ IDEA.
+- **Version control**: Git, GitHub.
+- **Other tools**: Eclipse IDE, VS Code, IntelliJ IDEA.
 
-📚 **Aprendiendo actualmente**:
-- **Grado Superior DAW - Upgrade-Hub.**
-- Me encanta mantenerme al día con las últimas tendencias en desarrollo web.
+📚 **Currently learning**:
+- **DAW Higher Grade - Upgrade-Hub.**
+- I love keeping up with the latest trends in web development.
 
-🌟 **Mi filosofía**:
-- Creo en el código limpio, la documentación clara y el trabajo en equipo.
-- Me esfuerzo por escribir software que no solo funcione, sino que también sea mantenible y escalable.
-- Siempre estoy abierto a colaborar en proyectos interesantes y desafiantes.
+🌟 **My philosophy**:
+- I believe in clean code, clear documentation, and teamwork.
+- I strive to write software that not only works, but is also maintainable and scalable.
+- I'm always open to collaborating on interesting and challenging projects.
 
-📫 **Cómo contactarme**:
+📫 **How to contact me**:
 - **Email**: thayrone.saldanha@gmail.com
 - **LinkedIn**: [linkedin.com/in/thayrone-saldanha](https://www.linkedin.com/in/thayrone-saldanha-alves-999784b9/)
 
-🌈 **Fuera del código**:
-- Me gusta jugar videojuegos, leer libros de ciencia ficción, soy un fanatico de la tecnología, me encanta el deporte de adrenalina.
-- Siempre estoy buscando nuevas formas de combinar mi pasión por la tecnología con la sostenibilidad.
+🌈 **outside the code**:
+- I like playing video games, reading science fiction books, I'm a techie, and I love adrenaline sports.
+- I'm always looking for new ways to combine my passion for technology with sustainability.
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
